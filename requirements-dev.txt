@@ -13,7 +13,7 @@ trufflehog
 pytest
 pytest-asyncio
 pytest-cov
-httpx-mock
+httpx_mock
 faker
 codecov
 
@@ -28,3 +28,4 @@ pre-commit
 commitizen
 
 python-semantic-release>=8.5.0
+
